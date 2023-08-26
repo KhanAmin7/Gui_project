@@ -1,5 +1,4 @@
 # Gui_project
-<p>This is a GUI project made using tkinter python. It has features like rateus and histroy page 
+This is a GUI project made using tkinter python. It is a scientific calculator has features like rateus and histroy page 
     
     
-    </p>
