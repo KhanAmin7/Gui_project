@@ -1,6 +1,7 @@
 # Scientific Calculator with Rate Us and History
 
-![image](https://github.com/KhanAmin7/Gui_project/assets/122000644/738b74ac-dc28-4780-ac9a-af2535e10b75)
+![image](https://github.com/KhanAmin7/Gui_project/assets/122000644/06165756-4614-40b1-b516-966b3d017ada)
+
 
 
 This Python application is a versatile scientific calculator with a Graphical User Interface (GUI) built using the Tkinter library. It provides a range of mathematical functions and operations in an easy-to-use interface, making it a handy tool for students, engineers, scientists, or anyone in need of a scientific calculator.
